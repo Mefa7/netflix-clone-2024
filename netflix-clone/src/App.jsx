@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <h1>jundi fuck you</h1>
+      <h1>yomif chala</h1>
     </>
   )
 }
